@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.14.36616.10 d17.14
+# Visual Studio Version 18
+VisualStudioVersion = 18.0.11222.15 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.Bll", "Library.Bll\Library.Bll.csproj", "{0AE4FDAA-2779-4B1F-971B-4428F3813F6B}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.Entities", "Library.Entities\Library.Entities.csproj", "{C802F50D-1284-4583-AFAE-F49E18BEA6B7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.WebApi", "Library.WebApi\Library.WebApi.csproj", "{FD250011-1B68-4C07-8ECD-A2046ACF1F44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library.Validators", "Library.Validators\Library.Validators.csproj", "{4C402A05-DFA6-4246-8E0F-2ECBE8989E9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{FD250011-1B68-4C07-8ECD-A2046ACF1F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD250011-1B68-4C07-8ECD-A2046ACF1F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD250011-1B68-4C07-8ECD-A2046ACF1F44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C402A05-DFA6-4246-8E0F-2ECBE8989E9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C402A05-DFA6-4246-8E0F-2ECBE8989E9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C402A05-DFA6-4246-8E0F-2ECBE8989E9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C402A05-DFA6-4246-8E0F-2ECBE8989E9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
